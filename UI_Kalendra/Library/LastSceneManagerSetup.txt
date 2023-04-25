@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Goblins.unity
+  isLoaded: 1
+  isActive: 1
